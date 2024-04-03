@@ -1,3 +1,8 @@
+<p align=”center”>
+
+<img width=”200" height=”200" src=”C:\Users\we\Desktop\Lakshay\banner.png.png" alt=”my banner”>
+
+</p>
 # 💫 About Me:
 🔭 Aspiring Fullstack developer<br>🌱 I’m currently JavaScript<br>💬 Ask me about Designing<br>⚡ I loves to talk about tech
 
