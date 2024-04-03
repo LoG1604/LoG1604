@@ -1,4 +1,4 @@
-
+![banner](https://github.com/LoG1604/LoG1604/blob/main/banner.png?raw=true)
 # 💫 About Me:
 🔭 Aspiring Fullstack developer<br>🌱 I’m currently JavaScript<br>💬 Ask me about Designing<br>⚡ I loves to talk about tech
 
