@@ -59,8 +59,8 @@ I am a Student pursuing Bachelor in Computer Applications from India.
 
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LoG1604&theme=midnight-purple)](https://git.io/streak-stats)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LoG1604&langs_count=10&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="lang" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LoG1604&theme=highcontrast)](https://git.io/streak-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LoG1604&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="lang" />
 </p>
 
 
