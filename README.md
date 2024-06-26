@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/lakshay-gupta-17b7ba244">
+  <a href="https:www.linkedin.com/in/lakshay-gupta-17b7ba244">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="www.instagram.com/laksh_1604">
+  <a href="https:www.instagram.com/laksh_1604">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://x.com/laks_1604">
@@ -31,7 +31,7 @@ I am a Student pursuing Bachelor in Computer Applications from India.
 - :books: I’m currently studying Data structure algorithm.
 - :seedling: Currently working on web development project
 - :zap: In my free time, I listen songs.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lakshay-gupta-17b7ba244)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https:www.linkedin.com/in/lakshay-gupta-17b7ba244)
 
 </div>
 
