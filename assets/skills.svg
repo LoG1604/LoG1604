@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Skill levels: Excel 9, Python 9, Power BI 8, Data visualization 8, SQL 7, out of 10">
+<defs><filter id="glow" x="-20%" y="-30%" width="140%" height="160%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>
+    .m { font-family: 'Courier New', ui-monospace, 'Cascadia Mono', Consolas, Menlo, monospace; font-weight: 700; }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    @keyframes fillx { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @keyframes pop { from { opacity: 0; transform: scale(.6); } to { opacity: 1; transform: scale(1); } }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @keyframes dash { to { stroke-dashoffset: -24; } }
+    @keyframes glowpulse { 0%, 100% { stroke-opacity: .35; } 50% { stroke-opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+
+    .blk { transform-box: fill-box; transform-origin: 50% 50%; animation: pop .35s cubic-bezier(.2,.8,.2,1) both; }
+    .row { animation: rise .5s ease both; }
+    .loot { animation: rise .5s ease both; }
+  </style>
+<rect width="1000" height="340" rx="18" fill="#0B1020"/>
+<rect x="1" y="1" width="998" height="338" rx="17" fill="none" stroke="#A78BFA" stroke-opacity=".4" stroke-width="2"/>
+<text class="m" x="40" y="46" font-size="18" letter-spacing="3" fill="#FFFFFF">INVENTORY</text>
+<text class="m" x="168" y="46" font-size="18" letter-spacing="3" fill="#64748B">/ SKILL TREE</text>
+<line x1="40" y1="62" x2="960" y2="62" stroke="#22D3EE" stroke-opacity=".25"/>
+<g class="row" style="animation-delay:0.2s">
+<text class="m" x="40" y="107" font-size="16" letter-spacing="2" fill="#E2E8F0">EXCEL</text>
+</g>
+<rect class="blk" style="animation-delay:0.50s" x="190" y="90" width="40" height="22" rx="3" fill="#4ADE80"/>
+<rect class="blk" style="animation-delay:0.57s" x="236" y="90" width="40" height="22" rx="3" fill="#4ADE80"/>
+<rect class="blk" style="animation-delay:0.64s" x="282" y="90" width="40" height="22" rx="3" fill="#4ADE80"/>
+<rect class="blk" style="animation-delay:0.71s" x="328" y="90" width="40" height="22" rx="3" fill="#4ADE80"/>
+<rect class="blk" style="animation-delay:0.78s" x="374" y="90" width="40" height="22" rx="3" fill="#4ADE80"/>
+<rect class="blk" style="animation-delay:0.85s" x="420" y="90" width="40" height="22" rx="3" fill="#4ADE80"/>
+<rect class="blk" style="animation-delay:0.92s" x="466" y="90" width="40" height="22" rx="3" fill="#4ADE80"/>
+<rect class="blk" style="animation-delay:0.99s" x="512" y="90" width="40" height="22" rx="3" fill="#4ADE80"/>
+<rect class="blk" style="animation-delay:1.06s" x="558" y="90" width="40" height="22" rx="3" fill="#4ADE80"/>
+<rect x="604" y="90" width="40" height="22" rx="3" fill="#1E293B"/>
+<text class="m row" style="animation-delay:1.20s" x="668" y="107" font-size="16" fill="#4ADE80">LV 9</text>
+<g class="row" style="animation-delay:0.45s">
+<text class="m" x="40" y="155" font-size="16" letter-spacing="2" fill="#E2E8F0">PYTHON</text>
+</g>
+<rect class="blk" style="animation-delay:0.75s" x="190" y="138" width="40" height="22" rx="3" fill="#FACC15"/>
+<rect class="blk" style="animation-delay:0.82s" x="236" y="138" width="40" height="22" rx="3" fill="#FACC15"/>
+<rect class="blk" style="animation-delay:0.89s" x="282" y="138" width="40" height="22" rx="3" fill="#FACC15"/>
+<rect class="blk" style="animation-delay:0.96s" x="328" y="138" width="40" height="22" rx="3" fill="#FACC15"/>
+<rect class="blk" style="animation-delay:1.03s" x="374" y="138" width="40" height="22" rx="3" fill="#FACC15"/>
+<rect class="blk" style="animation-delay:1.10s" x="420" y="138" width="40" height="22" rx="3" fill="#FACC15"/>
+<rect class="blk" style="animation-delay:1.17s" x="466" y="138" width="40" height="22" rx="3" fill="#FACC15"/>
+<rect class="blk" style="animation-delay:1.24s" x="512" y="138" width="40" height="22" rx="3" fill="#FACC15"/>
+<rect class="blk" style="animation-delay:1.31s" x="558" y="138" width="40" height="22" rx="3" fill="#FACC15"/>
+<rect x="604" y="138" width="40" height="22" rx="3" fill="#1E293B"/>
+<text class="m row" style="animation-delay:1.45s" x="668" y="155" font-size="16" fill="#FACC15">LV 9</text>
+<g class="row" style="animation-delay:0.7s">
+<text class="m" x="40" y="203" font-size="16" letter-spacing="2" fill="#E2E8F0">POWER BI</text>
+</g>
+<rect class="blk" style="animation-delay:1.00s" x="190" y="186" width="40" height="22" rx="3" fill="#22D3EE"/>
+<rect class="blk" style="animation-delay:1.07s" x="236" y="186" width="40" height="22" rx="3" fill="#22D3EE"/>
+<rect class="blk" style="animation-delay:1.14s" x="282" y="186" width="40" height="22" rx="3" fill="#22D3EE"/>
+<rect class="blk" style="animation-delay:1.21s" x="328" y="186" width="40" height="22" rx="3" fill="#22D3EE"/>
+<rect class="blk" style="animation-delay:1.28s" x="374" y="186" width="40" height="22" rx="3" fill="#22D3EE"/>
+<rect class="blk" style="animation-delay:1.35s" x="420" y="186" width="40" height="22" rx="3" fill="#22D3EE"/>
+<rect class="blk" style="animation-delay:1.42s" x="466" y="186" width="40" height="22" rx="3" fill="#22D3EE"/>
+<rect class="blk" style="animation-delay:1.49s" x="512" y="186" width="40" height="22" rx="3" fill="#22D3EE"/>
+<rect x="558" y="186" width="40" height="22" rx="3" fill="#1E293B"/>
+<rect x="604" y="186" width="40" height="22" rx="3" fill="#1E293B"/>
+<text class="m row" style="animation-delay:1.70s" x="668" y="203" font-size="16" fill="#22D3EE">LV 8</text>
+<g class="row" style="animation-delay:0.95s">
+<text class="m" x="40" y="251" font-size="16" letter-spacing="2" fill="#E2E8F0">DATA VIZ</text>
+</g>
+<rect class="blk" style="animation-delay:1.25s" x="190" y="234" width="40" height="22" rx="3" fill="#A78BFA"/>
+<rect class="blk" style="animation-delay:1.32s" x="236" y="234" width="40" height="22" rx="3" fill="#A78BFA"/>
+<rect class="blk" style="animation-delay:1.39s" x="282" y="234" width="40" height="22" rx="3" fill="#A78BFA"/>
+<rect class="blk" style="animation-delay:1.46s" x="328" y="234" width="40" height="22" rx="3" fill="#A78BFA"/>
+<rect class="blk" style="animation-delay:1.53s" x="374" y="234" width="40" height="22" rx="3" fill="#A78BFA"/>
+<rect class="blk" style="animation-delay:1.60s" x="420" y="234" width="40" height="22" rx="3" fill="#A78BFA"/>
+<rect class="blk" style="animation-delay:1.67s" x="466" y="234" width="40" height="22" rx="3" fill="#A78BFA"/>
+<rect class="blk" style="animation-delay:1.74s" x="512" y="234" width="40" height="22" rx="3" fill="#A78BFA"/>
+<rect x="558" y="234" width="40" height="22" rx="3" fill="#1E293B"/>
+<rect x="604" y="234" width="40" height="22" rx="3" fill="#1E293B"/>
+<text class="m row" style="animation-delay:1.95s" x="668" y="251" font-size="16" fill="#A78BFA">LV 8</text>
+<g class="row" style="animation-delay:1.2s">
+<text class="m" x="40" y="299" font-size="16" letter-spacing="2" fill="#E2E8F0">SQL</text>
+</g>
+<rect class="blk" style="animation-delay:1.50s" x="190" y="282" width="40" height="22" rx="3" fill="#F472B6"/>
+<rect class="blk" style="animation-delay:1.57s" x="236" y="282" width="40" height="22" rx="3" fill="#F472B6"/>
+<rect class="blk" style="animation-delay:1.64s" x="282" y="282" width="40" height="22" rx="3" fill="#F472B6"/>
+<rect class="blk" style="animation-delay:1.71s" x="328" y="282" width="40" height="22" rx="3" fill="#F472B6"/>
+<rect class="blk" style="animation-delay:1.78s" x="374" y="282" width="40" height="22" rx="3" fill="#F472B6"/>
+<rect class="blk" style="animation-delay:1.85s" x="420" y="282" width="40" height="22" rx="3" fill="#F472B6"/>
+<rect class="blk" style="animation-delay:1.92s" x="466" y="282" width="40" height="22" rx="3" fill="#F472B6"/>
+<rect x="512" y="282" width="40" height="22" rx="3" fill="#1E293B"/>
+<rect x="558" y="282" width="40" height="22" rx="3" fill="#1E293B"/>
+<rect x="604" y="282" width="40" height="22" rx="3" fill="#1E293B"/>
+<text class="m row" style="animation-delay:2.20s" x="668" y="299" font-size="16" fill="#F472B6">LV 7</text>
+<rect x="740" y="84" width="220" height="226" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".45"/>
+<text class="m" x="758" y="112" font-size="13" letter-spacing="2" fill="#22D3EE">LOADOUT</text>
+<g class="loot" style="animation-delay:1.20s">
+<rect x="758" y="132" width="10" height="10" fill="#A78BFA"/>
+<text class="m" x="778" y="142" font-size="15" fill="#E2E8F0">Pandas</text>
+</g>
+<g class="loot" style="animation-delay:1.38s">
+<rect x="758" y="160" width="10" height="10" fill="#A78BFA"/>
+<text class="m" x="778" y="170" font-size="15" fill="#E2E8F0">NumPy</text>
+</g>
+<g class="loot" style="animation-delay:1.56s">
+<rect x="758" y="188" width="10" height="10" fill="#A78BFA"/>
+<text class="m" x="778" y="198" font-size="15" fill="#E2E8F0">DuckDB</text>
+</g>
+<g class="loot" style="animation-delay:1.74s">
+<rect x="758" y="216" width="10" height="10" fill="#A78BFA"/>
+<text class="m" x="778" y="226" font-size="15" fill="#E2E8F0">Plotly</text>
+</g>
+<g class="loot" style="animation-delay:1.92s">
+<rect x="758" y="244" width="10" height="10" fill="#A78BFA"/>
+<text class="m" x="778" y="254" font-size="15" fill="#E2E8F0">Streamlit</text>
+</g>
+<g class="loot" style="animation-delay:2.10s">
+<rect x="758" y="272" width="10" height="10" fill="#A78BFA"/>
+<text class="m" x="778" y="282" font-size="15" fill="#E2E8F0">Jupyter</text>
+</g>
+</svg>

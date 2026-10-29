@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 140" width="1000" height="140" role="img" aria-label="Open to Data Analyst, MIS and Business Analyst roles. Let us talk.">
+<defs><filter id="glow" x="-20%" y="-30%" width="140%" height="160%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#1E1B4B"/></linearGradient></defs>
+<style>
+    .m { font-family: 'Courier New', ui-monospace, 'Cascadia Mono', Consolas, Menlo, monospace; font-weight: 700; }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    @keyframes fillx { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @keyframes pop { from { opacity: 0; transform: scale(.6); } to { opacity: 1; transform: scale(1); } }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @keyframes dash { to { stroke-dashoffset: -24; } }
+    @keyframes glowpulse { 0%, 100% { stroke-opacity: .35; } 50% { stroke-opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+
+    .frame { animation: glowpulse 2.4s ease-in-out infinite; }
+    .t1 { animation: rise .7s ease .2s both; }
+    .t2 { animation: rise .7s ease .5s both; }
+  </style>
+<rect width="1000" height="140" rx="18" fill="url(#g)"/>
+<rect class="frame" x="2" y="2" width="996" height="136" rx="16" fill="none" stroke="#22D3EE" stroke-width="2.5"/>
+<text class="m t1" x="500" y="60" font-size="22" text-anchor="middle" letter-spacing="1" fill="#FFFFFF" filter="url(#glow)">OPEN TO DATA ANALYST | MIS | BUSINESS ANALYST ROLES</text>
+<text class="m t2" x="500" y="100" font-size="16" text-anchor="middle" letter-spacing="3" fill="#FACC15">CONTINUE? <tspan fill="#22D3EE">let&#8217;s talk</tspan><tspan class="blink" fill="#22D3EE">_</tspan></text>
+</svg>
